@@ -22,3 +22,7 @@ We would want some people who can be maintainers while the rest of the contribut
 [source](https://twitter.com/secretGeek/status/7269997868?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E7269997868%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmartinfowler.com%2Fbliki%2FTwoHardThings.html)
 
 So we left the burden on GitHub and picked the auto-generated name. Maybe the first contribution could be a suggestion for a name.
+
+# Commit Message Guideline
+We will have enable Semantic-release and follow the default commit message format
+https://semantic-release.gitbook.io/semantic-release/#how-does-it-work
