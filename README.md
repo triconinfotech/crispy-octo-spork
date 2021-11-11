@@ -1,18 +1,18 @@
 # crispy-octo-spork
-Mono Repo for a COP maintenance application at Tricon Infotech
+Mono Repo for Tricon communities engagement application at Tricon Infotech
 
 # The Why
-- As of now, there is a lot of great work happening in the Communities of Practice in Tricon, but most of the efforts are isolated within a single community. This project is an initiative to work collaboratively on a project.
-- Lot of tracking and planning for the Communities of Practice is happening through manual processes like maintaining excel sheets and manually sending emails regarding COP events. We can automate this process by creating an application/suite of applications to automate this process
-- Lot of people want to dip their toes in other technologies but it can be overwhelming to start from scratch. Mentorship and training can help but nothing beats getting your hands dirty and writing some code (or the equivalent of this for non-development related CoPs). This project can be an opportunity where people can start contributing as tiny chunks in the technologies that they are interested in while looking at the rest of the code for guidance/motivation.
+- There is a lot of great work happening in the Communities of Practice at Tricon, as our commmunities get bigger and broader this is space to work collaboratively across communities. 
+- Running a community is no small feat and involves a lot of planning for the Communities often through happening through manual processes or on excel sheets and emails. The focus is to create an application/suite of applications to automate operational tasks of running the community and help provide more information back to community members easily
+- We believe and building world class products not just talking about it - Lot of people want to dip their toes in other technologies but it can be overwhelming to start from scratch. Mentorship and training can help but nothing beats rolling up your sleeves and writing code. This project can be an opportunity where people can start contributing as tiny chunks in the technologies that they are interested in while looking at the rest of the code for guidance/motivation.
 
 # The What
 This is a mono repository for all code and assets related to the application we are building. Each part of the application resides in its folder with a readme file containing the guidelines for contributing.
 
-The features of this application are not yet decided. We can have a wider discussion to identify the major pain points while organizing CoP activities and build those features. Let's keep the feature set small so that we can have something working. More features can always be added later.
+The features of this application are not yet decided. The focus is decrease the operational time around organising community activities automated and increase community engagement. We will keep the first realse small and focus on get something working. And iteratively follow from there.
 
 # The How
-The code commits to this repository are completely voluntary. There is no obligation to contribute. Contribution can also be sharing ideas or suggestions for features. However, we want to keep the production level code quality so that people can use this as a reference.
+The code commits to this repository are completely voluntary. There is no obligation to contribute. Contribution can also be sharing ideas or suggestions for features. However, this will be application for real people, there will be no comprise on the level of code quality and also so that it can also help to use it as a reference.
 
 We would want some people who can be maintainers while the rest of the contribution can be voluntary.
 
